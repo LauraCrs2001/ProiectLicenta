@@ -1,0 +1,2 @@
+# ProiectLicenta
+Lucrare Licenta
